@@ -12,6 +12,9 @@
 }
 .image {
 }
+.primary_button {
+  color:#FFFFFF;
+}
 .heading_1 {
   font-family:'Arial Normal', 'Arial', sans-serif;
   font-weight:bold;
