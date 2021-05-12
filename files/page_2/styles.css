@@ -1,11 +1,11 @@
 ﻿body {
   margin:0px;
   background-image:none;
-  position:relative;
-  left:-316px;
-  width:448px;
-  margin-left:auto;
-  margin-right:auto;
+  position:static;
+  left:auto;
+  width:414px;
+  margin-left:0;
+  margin-right:0;
   text-align:left;
 }
 .form_sketch {
@@ -22,7 +22,7 @@
   left:0px;
   top:0px;
   width:293px;
-  height:15px;
+  height:1px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -34,10 +34,10 @@
 #u0 {
   border-width:0px;
   position:absolute;
-  left:340px;
-  top:216px;
+  left:68px;
+  top:173px;
   width:293px;
-  height:15px;
+  height:1px;
   display:flex;
 }
 #u0 .text {
@@ -73,8 +73,8 @@
 #u1 {
   border-width:0px;
   position:absolute;
-  left:316px;
-  top:157px;
+  left:107px;
+  top:121px;
   width:168px;
   height:21px;
   display:flex;
@@ -112,8 +112,8 @@
 #u2 {
   border-width:0px;
   position:absolute;
-  left:624px;
-  top:148px;
+  left:137px;
+  top:354px;
   width:140px;
   height:40px;
   display:flex;
